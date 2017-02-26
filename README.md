@@ -3,7 +3,7 @@
 > A Vue 2.0 project example to demo how to build a grid/table with inline editing support
 
 ## Demo
-<https://sample-vue-grid-inline-editing.md101.duckdns.org>
+<https://sample-vue-grid-inline-editing.playground.fahri.nurul.id>
 
 ## Build Setup
 
