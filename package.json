@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.18.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "timepicker": "^1.11.9",
     "uuid": "^3.0.1",
     "vue": "^2.1.10",
