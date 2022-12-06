@@ -42,7 +42,7 @@
     "eslint-plugin-standard": "^2.0.1",
     "eventsource-polyfill": "^0.9.6",
     "expose-loader": "^0.7.3",
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^2.0.0-rc.2",
     "file-loader": "^0.10.0",
     "friendly-errors-webpack-plugin": "^1.1.3",
